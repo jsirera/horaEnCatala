@@ -9,7 +9,7 @@ function horaEnCatala(objecteDOM){
 	this.objecteDOM = objecteDOM;
 	this.nomHores = 		["dotze",	"una",	"dos",	"tres",	"quatre",	"cinc",	"sis",	"set",	"vuit",	"nou",	"deu",	"onze",	"dotze"]; 
 	this.articleHores = 	["les",		"la",	"les",	"les",	"les",		"les",	"les",	"les",	"les",	"les",	"les",	"les",	"les"];
-	this.preposicioHores =	["de ",		"d'",	"de ",	"de ",	"de ",		"de ",	"de ",	"de ",	"de ",	"de ",	"de ",	"de ",	"de "];
+	this.preposicioHores =	["de ",		"d'",	"de ",	"de ",	"de ",		"de ",	"de ",	"de ",	"de ",	"de ",	"de ",	"d'",	"de "];
 	
 	//Actualitza l'hora	
 	this.actualitzar = actualitzar;

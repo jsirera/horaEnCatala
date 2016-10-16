@@ -1,8 +1,8 @@
-# horaEnCatala - Posa la hora en catala a la teva web
-horaEnCatala és un senzill codi en javascript + html per introduir l'hora en format catala a qualsevol web.
+# horaEnCatala - Posa l'hora en català a la teva web.
+horaEnCatala és un senzill codi en javascript + html per introduir l'hora en format català a qualsevol web.
 
 ### Característiques
-L'hora es mostra com els següents exemples:
+L'hora es mostra com en els següents exemples:
 - "les nou en punt".
 - "dos quarts de set".
 - "mig quart de sis":
@@ -10,7 +10,7 @@ L'hora es mostra com els següents exemples:
 - "tres quarts i mig de deu".
 - etc...
 
-### Credits
+### Crèdits
 - Joan Sirera (jsirera@gmail.com)
 
 ### Com utilitzar-ho
